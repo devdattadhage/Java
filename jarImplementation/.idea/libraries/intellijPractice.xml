@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="intellijPractice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../intellijPractice/out/artifacts/intellijPractice_jar/intellijPractice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
